@@ -14,6 +14,6 @@
     <tags>javascript ecmascript</tags>
   </metadata>
   <files>
-	<file src="..\Code\EcmaScript.NET\bin\Release\Nest.dll" target="lib\net2"/>
+	<file src="..\Code\EcmaScript.NET\bin\Release\EcmaScript.NET.dll" target="lib\net20"/>
   </files>
 </package>
