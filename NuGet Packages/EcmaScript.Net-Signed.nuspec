@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>1.0.1.0</version>
+    <authors>Pure Krome</authors>
+    <owners />
+    <id>EcmaScript.Net-Signed</id>
+    <title>EcmaScript.Net</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a custom modified version of the EcmaScript code, mainly created for YUICompressor.NET.</description>
+    <summary>Modified version of the EcmaScript library.</summary>
+    <copyright>2008 - 2012</copyright>
+    <language>en-AU</language>
+    <tags>javascript ecmascript</tags>
+  </metadata>
+  <files>
+	<file src="..\Code\EcmaScript.NET\bin\Release\Nest.dll" target="lib\net2"/>
+  </files>
+</package>
